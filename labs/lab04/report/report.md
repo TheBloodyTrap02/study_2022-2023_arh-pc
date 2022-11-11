@@ -1,8 +1,8 @@
 ---
 ## Front matter
-title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+title: "Отчет по лабораторной работе № 4"
+subtitle: "Архитектура компьютера"
+author: "Эмиль Манукович Петросян"
 
 ## Generic otions
 lang: ru-RU
@@ -16,7 +16,6 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
 fontsize: 12pt
 linestretch: 1.5
 papersize: a4
@@ -56,7 +55,6 @@ figureTitle: "Рис."
 tableTitle: "Таблица"
 listingTitle: "Листинг"
 lofTitle: "Список иллюстраций"
-lotTitle: "Список таблиц"
 lolTitle: "Листинги"
 ## Misc options
 indent: true
